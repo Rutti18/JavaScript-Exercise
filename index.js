@@ -1,8 +1,13 @@
 reverse_a_number(); 
+
 sort_alphabet();
+
 capitalise_each_word('the quick brown fox'); 
+
 find_is_prime(5); 
+
 makeUnique('thequickbrownfoxjumpsoverthelazydog'); 
+
 secondLowest_Highest(); 
 
 function reverse_a_number()
